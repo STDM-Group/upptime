@@ -7,11 +7,15 @@ sites:
   - name: Home Page
     url: https://www.stardream.online
   - name: Blog
-    - url: https://blog.stardream.online
+    url: https://blog.stardream.online
   - name: StarMedia
-    - url: https://social.lolihouse.top
+    url: https://social.lolihouse.top
   - name: StarTube
-    - url: https://video.lolihouse.top
+    url: https://video.lolihouse.top
+  - name: StarDrive
+    url: https://drive.stardream.online
+  - name: Mail
+    url: $MAIL_URL
 
 
 status-website:
