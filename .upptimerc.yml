@@ -24,6 +24,8 @@ sites:
     url: https://cambia.stardream.online
   - name: IT-Tools
     url: https://itools.stardream.online
+  - name: Docker Mirror
+    url: https://docker.stardream.online
   - name: Twikoo API
     url: $TWIKOO_API
   - name: CF R2 Bucket
