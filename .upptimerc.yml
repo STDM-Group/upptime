@@ -9,7 +9,7 @@ sites:
   - name: Blog
     url: https://blog.stardream.online
   - name: StarMedia
-    url: https://social.lolihouse.top
+    url: $MISSKEY_RSS
     method: POST
   - name: StarTube
     url: https://video.lolihouse.top
