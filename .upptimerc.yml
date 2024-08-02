@@ -9,7 +9,8 @@ sites:
   - name: Blog
     url: https://blog.stardream.online
   - name: StarMedia
-    url: https://social.lolihouse.top/@Stardream
+    url: https://social.lolihouse.top
+    method: GET
   - name: StarTube
     url: https://video.lolihouse.top
   - name: StarDrive
