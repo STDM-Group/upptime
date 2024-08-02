@@ -6,8 +6,10 @@ user-agent: "STRDM-Bot (https://github.com/STDM-Group/upptime)"
 sites:
   - name: Home Page
     url: https://www.stardream.online
-  - name: Blog
+  - name: Blog - Main
     url: https://blog.stardream.online
+  - name: Blog - Past
+    url: https://nas-y-blog.stardream.online
   - name: StarEvent
     url: https://event.stardream.online
   - name: StarMedia
@@ -20,6 +22,8 @@ sites:
     url: https://drive.stardream.online
   - name: StarTZ
     url: https://tz.stardream.online
+  - name: StarLottery
+    url: https://lottery.stardream.online
   - name: Steam Card
     url: https://steam.stardream.online
   - name: osu!next
