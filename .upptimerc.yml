@@ -34,14 +34,18 @@ sites:
     url: https://itools.stardream.online
   - name: Blue Archive Logo Generator
     url: https://ba-logo.stardream.online
-  - name: Mail
-    url: $MAIL_URL
-  - name: Short Links
-    url: https://links.stardream.online
   - name: Docker Mirror
     url: https://docker.stardream.online
     expectedStatusCodes:
       - 404
+  - name: Mail
+    url: $MAIL_URL
+  - name: Short Links
+    url: https://links.stardream.online
+  - name: PalServer
+    check: "tcp-ping"
+    url: $PALSERVER_IP
+    port: 8211
   - name: Twikoo API
     url: $TWIKOO_API
   - name: Gitcalendar API
