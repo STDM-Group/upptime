@@ -1,7 +1,7 @@
 # Change these first
 owner: STDM-Group # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-user-agent: "STRDM-User (https://github.com/STDM-Group/upptime)"
+user-agent: "STRDM-Bot (https://github.com/STDM-Group/upptime)"
 
 sites:
   - name: Home Page
