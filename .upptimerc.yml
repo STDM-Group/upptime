@@ -10,10 +10,8 @@ sites:
     url: https://blog.stardream.online
   - name: StarMedia
     url: https://social.lolihouse.top
-    method: GET
-    headers:
-      - "Content-Type: text/html; charset=utf-8"
-      - "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+    expectedStatusCodes:
+      - 403
   - name: StarTube
     url: https://video.lolihouse.top
   - name: StarDrive
