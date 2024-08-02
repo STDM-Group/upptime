@@ -21,7 +21,7 @@ sites:
   - name: Cambia
     url: https://cambia.stardream.online
   - name: IT-Tools
-    url: https://itool.stardream.online
+    url: https://itools.stardream.online
   - name: $TWIKOO_API
     url: https://twikoo.stardream.online
   - name: CF R2 Bucket
