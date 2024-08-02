@@ -42,10 +42,6 @@ sites:
     url: $MAIL_URL
   - name: Short Links
     url: https://links.stardream.online
-  - name: PalServer
-    check: "tcp-ping"
-    url: $PALSERVER_IP
-    port: 8211
   - name: Twikoo API
     url: $TWIKOO_API
   - name: Gitcalendar API
