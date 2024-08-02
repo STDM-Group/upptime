@@ -6,6 +6,13 @@ user-agent: "STRDM-User (https://github.com/STDM-Group/upptime)"
 sites:
   - name: Home Page
     url: https://www.stardream.online
+  - name: Blog
+    - url: https://blog.stardream.online
+  - name: StarMedia
+    - url: https://social.lolihouse.top
+  - name: StarTube
+    - url: https://video.lolihouse.top
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
