@@ -16,6 +16,16 @@ sites:
     url: https://drive.stardream.online
   - name: Mail
     url: $MAIL_URL
+  - name: Short Links
+    url: https://links.stardream.online
+  - name: Cambia
+    url: https://cambia.stardream.online
+  - name: IT-Tools
+    url: https://itool.stardream.online
+  - name: $TWIKOO_API
+    url: https://twikoo.stardream.online
+  - name: CF R2 Bucket
+    url: $CF_R2
 
 
 status-website:
