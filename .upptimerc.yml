@@ -46,6 +46,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: TG Channel
+      href: https://t.me/+pZKNS0GDs4o0YzM1
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
