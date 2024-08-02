@@ -22,8 +22,8 @@ sites:
     url: https://cambia.stardream.online
   - name: IT-Tools
     url: https://itools.stardream.online
-  - name: $TWIKOO_API
-    url: https://twikoo.stardream.online
+  - name: Twikoo API
+    url: $TWIKOO_API
   - name: CF R2 Bucket
     url: $CF_R2
 
