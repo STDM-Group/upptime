@@ -41,7 +41,7 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Matrix
-    url: https://matrix.lolihouse.top
+    url: https://matrix.lolihouse.top/_matrix/static/
   - name: Mail
     url: $MAIL_URL
   - name: Short Links
