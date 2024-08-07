@@ -42,6 +42,8 @@ sites:
       - 404
   - name: Matrix
     url: https://matrix.lolihouse.top/_matrix/static/
+    expectedStatusCodes:
+      - 403
   - name: Mail
     url: $MAIL_URL
   - name: Short Links
@@ -72,8 +74,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: TG Channel
-      href: https://t.me/+pZKNS0GDs4o0YzM1
+    - title: Update - TG Channel
+      href: https://t.me/STDM_Status_Update
+    - title: Update - WebSite
+      href: https://status-update.stardream.online
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
