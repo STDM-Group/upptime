@@ -24,7 +24,7 @@ sites:
     url: https://tz.stardream.online
   - name: StarLottery
     url: https://lottery.stardream.online
-  - name: 星云签
+  - name: StarTBS
     url: https://tieba.stardream.online
   - name: Steam Card
     url: https://steam.stardream.online
