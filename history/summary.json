@@ -116,19 +116,19 @@
     "url": "https://drive.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/drive.stardream.online.ico",
     "slug": "star-drive",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 219,
-    "timeDay": 303,
-    "timeWeek": 202,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 216,
+    "timeDay": 200,
+    "timeWeek": 193,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-08-13": 3
+      "2024-08-13": 6
     }
   },
   {
