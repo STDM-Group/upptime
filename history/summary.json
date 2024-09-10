@@ -125,18 +125,20 @@
     "url": "https://drive.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/drive.stardream.online.ico",
     "slug": "star-drive",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 551,
     "timeDay": 110,
     "timeWeek": 244,
     "timeMonth": 905,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 5
+    }
   },
   {
     "name": "StarTZ",
@@ -181,18 +183,20 @@
     "url": "https://tieba.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/tieba.stardream.online.ico",
     "slug": "star-tbs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 793,
     "timeDay": 207,
     "timeWeek": 1470,
     "timeMonth": 837,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 3
+    }
   },
   {
     "name": "Steam Card",
@@ -325,9 +329,9 @@
     "url": "$MAIL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -336,7 +340,9 @@
     "timeWeek": 407,
     "timeMonth": 816,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 0
+    }
   },
   {
     "name": "Short Links",
