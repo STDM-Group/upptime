@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas-y-blog.stardream.online.ico",
     "slug": "blog-past",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.88%",
     "time": 3180,
     "timeDay": 5790,
     "timeWeek": 4046,
-    "timeMonth": 3109,
+    "timeMonth": 3106,
     "timeYear": 3180,
     "dailyMinutesDown": {
       "2024-09-06": 21,
@@ -88,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.lolihouse.top.ico",
     "slug": "star-media",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.82%",
     "time": 272,
     "timeDay": 280,
     "timeWeek": 261,
@@ -181,18 +181,20 @@
     "url": "https://tieba.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/tieba.stardream.online.ico",
     "slug": "star-tbs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 423,
     "timeWeek": 393,
     "timeMonth": 622,
     "timeYear": 728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 2
+    }
   },
   {
     "name": "Steam Card",
@@ -325,9 +327,9 @@
     "url": "$MAIL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -336,7 +338,9 @@
     "timeWeek": 389,
     "timeMonth": 436,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "Short Links",
