@@ -181,19 +181,19 @@
     "url": "https://tieba.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/tieba.stardream.online.ico",
     "slug": "star-tbs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 423,
-    "timeWeek": 393,
-    "timeMonth": 622,
-    "timeYear": 728,
+    "uptimeYear": "99.99%",
+    "time": 720,
+    "timeDay": 412,
+    "timeWeek": 394,
+    "timeMonth": 616,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-09-16": 2
+      "2024-09-16": 5
     }
   },
   {
@@ -327,19 +327,19 @@
     "url": "$MAIL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 522,
-    "timeWeek": 389,
+    "time": 574,
+    "timeDay": 485,
+    "timeWeek": 396,
     "timeMonth": 436,
-    "timeYear": 576,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 3
     }
   },
   {
