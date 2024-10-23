@@ -43,12 +43,12 @@
     "status": "up",
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.30%",
     "time": 3313,
     "timeDay": 3197,
-    "timeWeek": 4681,
+    "timeWeek": 5191,
     "timeMonth": 4218,
     "timeYear": 3313,
     "dailyMinutesDown": {
@@ -110,36 +110,40 @@
     "url": "https://video.lolihouse.top",
     "icon": "https://icons.duckduckgo.com/ip3/video.lolihouse.top.ico",
     "slug": "star-tube",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 457,
     "timeDay": 510,
     "timeWeek": 425,
     "timeMonth": 430,
     "timeYear": 457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 7
+    }
   },
   {
     "name": "StarDrive",
     "url": "https://drive.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/drive.stardream.online.ico",
     "slug": "star-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 426,
     "timeDay": 245,
     "timeWeek": 266,
     "timeMonth": 251,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 5
+    }
   },
   {
     "name": "StarTZ",
@@ -184,18 +188,19 @@
     "url": "https://tieba.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/tieba.stardream.online.ico",
     "slug": "star-tbs",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 549,
     "timeDay": 457,
     "timeWeek": 363,
     "timeMonth": 373,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2024-10-23": 4,
       "2024-10-04": 16
     }
   },
@@ -240,28 +245,30 @@
     "url": "https://cambia.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/cambia.stardream.online.ico",
     "slug": "cambia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 260,
     "timeDay": 289,
     "timeWeek": 278,
     "timeMonth": 242,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 2
+    }
   },
   {
     "name": "IT-Tools",
     "url": "https://itools.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/itools.stardream.online.ico",
     "slug": "it-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
@@ -269,7 +276,9 @@
     "timeWeek": 235,
     "timeMonth": 225,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 1
+    }
   },
   {
     "name": "Blue Archive Logo Generator",
@@ -330,9 +339,9 @@
     "url": "$MAIL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -341,7 +350,9 @@
     "timeWeek": 378,
     "timeMonth": 391,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 0
+    }
   },
   {
     "name": "Short Links",
