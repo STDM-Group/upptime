@@ -131,11 +131,11 @@
     "url": "https://drive.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/drive.stardream.online.ico",
     "slug": "star-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 406,
     "timeDay": 269,
@@ -143,6 +143,7 @@
     "timeMonth": 293,
     "timeYear": 406,
     "dailyMinutesDown": {
+      "2024-11-12": 5,
       "2024-10-23": 41
     }
   },
@@ -189,10 +190,10 @@
     "url": "https://tieba.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/tieba.stardream.online.ico",
     "slug": "star-tbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
     "time": 505,
@@ -201,6 +202,7 @@
     "timeMonth": 355,
     "timeYear": 505,
     "dailyMinutesDown": {
+      "2024-11-12": 3,
       "2024-10-23": 64,
       "2024-10-04": 16
     }
@@ -246,10 +248,10 @@
     "url": "https://cambia.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/cambia.stardream.online.ico",
     "slug": "cambia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 254,
@@ -258,6 +260,7 @@
     "timeMonth": 243,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2024-11-12": 2,
       "2024-10-23": 38
     }
   },
@@ -266,18 +269,19 @@
     "url": "https://itools.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/itools.stardream.online.ico",
     "slug": "it-tools",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 375,
     "timeDay": 275,
     "timeWeek": 189,
     "timeMonth": 225,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-10-23": 37
     }
   },
