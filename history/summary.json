@@ -42,9 +42,9 @@
     "slug": "blog-past",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "94.52%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "94.53%",
     "uptimeYear": "98.37%",
     "time": 6705,
     "timeDay": 14963,
@@ -52,7 +52,7 @@
     "timeMonth": 9702,
     "timeYear": 6705,
     "dailyMinutesDown": {
-      "2025-02-25": 48,
+      "2025-02-25": 42,
       "2025-02-24": 39,
       "2025-02-23": 56,
       "2025-02-22": 44,
@@ -106,7 +106,7 @@
       "2024-09-06": 21,
       "2024-08-31": 119,
       "2024-08-23": 36,
-      "2024-08-22": 118
+      "2024-08-22": 140
     }
   },
   {
@@ -386,18 +386,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "56.83%",
+    "uptime": "56.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.83%",
+    "uptimeYear": "56.81%",
     "time": 483,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-02-25": 1412,
+      "2025-02-26": 110,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
