@@ -40,9 +40,9 @@
     "url": "https://nas-y-blog.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/nas-y-blog.stardream.online.ico",
     "slug": "blog-past",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "96.92%",
+    "uptimeDay": "96.91%",
     "uptimeWeek": "96.90%",
     "uptimeMonth": "94.49%",
     "uptimeYear": "98.49%",
@@ -52,6 +52,7 @@
     "timeMonth": 9917,
     "timeYear": 6939,
     "dailyMinutesDown": {
+      "2025-03-04": 0,
       "2025-03-03": 44,
       "2025-03-02": 16,
       "2025-03-01": 78,
@@ -106,7 +107,7 @@
       "2024-11-21": 34,
       "2024-11-20": 38,
       "2024-11-19": 39,
-      "2024-11-18": 49
+      "2024-11-18": 33
     }
   },
   {
@@ -115,18 +116,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/event.stardream.online.ico",
     "slug": "star-event",
     "status": "down",
-    "uptime": "98.85%",
+    "uptime": "98.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.82%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "98.85%",
+    "uptimeWeek": "65.48%",
+    "uptimeMonth": "92.06%",
+    "uptimeYear": "98.84%",
     "time": 1735,
     "timeDay": 556,
     "timeWeek": 1200,
     "timeMonth": 1601,
     "timeYear": 1735,
     "dailyMinutesDown": {
-      "2025-03-04": 112,
+      "2025-03-04": 147,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 453,
@@ -401,7 +402,7 @@
     "timeMonth": 0,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-03-04": 113,
+      "2025-03-04": 147,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
