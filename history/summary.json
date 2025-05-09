@@ -135,7 +135,7 @@
     "timeMonth": 1136,
     "timeYear": 1551,
     "dailyMinutesDown": {
-      "2025-05-09": 1190,
+      "2025-05-09": 1197,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -224,7 +224,7 @@
     "timeMonth": 370,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-05-09": 1190,
+      "2025-05-09": 1197,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -516,7 +516,7 @@
     "timeMonth": 314,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-05-09": 1190,
+      "2025-05-09": 1197,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -579,7 +579,7 @@
     "timeMonth": 0,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-05-09": 1190,
+      "2025-05-09": 1197,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -810,19 +810,19 @@
     "url": "$CF_R2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cf-r2-bucket",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 389,
-    "timeWeek": 271,
-    "timeMonth": 165,
+    "timeDay": 228,
+    "timeWeek": 260,
+    "timeMonth": 163,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-05-09": 0
+      "2025-05-09": 7
     }
   }
 ]
