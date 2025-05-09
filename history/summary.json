@@ -50,7 +50,7 @@
     "uptimeYear": "98.80%",
     "time": 6592,
     "timeDay": 1568,
-    "timeWeek": 2271,
+    "timeWeek": 2127,
     "timeMonth": 2131,
     "timeYear": 6592,
     "dailyMinutesDown": {
@@ -124,18 +124,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/event.stardream.online.ico",
     "slug": "star-event",
     "status": "down",
-    "uptime": "76.82%",
+    "uptime": "76.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.82%",
+    "uptimeYear": "76.81%",
     "time": 1551,
     "timeDay": 607,
     "timeWeek": 536,
     "timeMonth": 1136,
     "timeYear": 1551,
     "dailyMinutesDown": {
-      "2025-05-09": 577,
+      "2025-05-09": 586,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -224,7 +224,7 @@
     "timeMonth": 370,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-05-09": 577,
+      "2025-05-09": 586,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -516,7 +516,7 @@
     "timeMonth": 314,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-05-09": 577,
+      "2025-05-09": 587,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -579,7 +579,7 @@
     "timeMonth": 0,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-05-09": 577,
+      "2025-05-09": 587,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -810,19 +810,19 @@
     "url": "$CF_R2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cf-r2-bucket",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 630,
-    "timeWeek": 297,
-    "timeMonth": 153,
+    "timeDay": 520,
+    "timeWeek": 277,
+    "timeMonth": 151,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-05-09": 1
+      "2025-05-09": 9
     }
   }
 ]
