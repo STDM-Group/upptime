@@ -136,7 +136,7 @@
     "timeMonth": 546,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2025-06-13": 879,
+      "2025-06-13": 890,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -260,7 +260,7 @@
     "timeMonth": 414,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-06-13": 879,
+      "2025-06-13": 890,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -409,19 +409,19 @@
     "url": "https://lottery.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/lottery.stardream.online.ico",
     "slug": "star-lottery",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 980,
-    "timeDay": 885,
-    "timeWeek": 960,
-    "timeMonth": 995,
+    "timeDay": 892,
+    "timeWeek": 953,
+    "timeMonth": 992,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2025-06-13": 0,
+      "2025-06-13": 11,
       "2025-03-27": 26,
       "2024-08-11": 21
     }
@@ -588,7 +588,7 @@
     "timeMonth": 499,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-06-13": 879,
+      "2025-06-13": 890,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -686,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-06-13": 880,
+      "2025-06-13": 890,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
