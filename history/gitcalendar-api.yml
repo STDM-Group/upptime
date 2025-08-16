@@ -1,7 +1,7 @@
 url: $GITCALENDAR_API
-status: down
-code: 403
-responseTime: 81
-lastUpdated: 2025-08-16T21:28:38.226Z
+status: up
+code: 200
+responseTime: 1103
+lastUpdated: 2025-08-16T21:38:15.095Z
 startTime: 2024-08-02T14:17:31.091Z
 generator: Upptime <https://github.com/upptime/upptime>
