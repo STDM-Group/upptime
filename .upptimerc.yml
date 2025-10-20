@@ -18,8 +18,16 @@ sites:
       - 403
   - name: StarTube
     url: https://video.lolihouse.top
+  - name: StarServer
+    url: $STAR_SERVER
   - name: StarDrive
     url: https://drive.stardream.online
+  - name: StarCloud
+    url: $STAR_CLOUD
+  - name: Filecodebox 
+    url: https://file.stardream.online
+  - name: Opengist 
+    url: $OGT
   - name: StarTZ
     url: https://tz.stardream.online
   - name: StarLottery
@@ -52,6 +60,8 @@ sites:
     url: $TWIKOO_API
   - name: Gitcalendar API
     url: $GITCALENDAR_API
+  - name: Fcircle API
+    url: https://fcircle.stardream.online/all
   - name: CF R2 Bucket
     url: $CF_R2
 
