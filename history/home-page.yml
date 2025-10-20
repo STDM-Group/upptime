@@ -1,7 +1,7 @@
 url: https://www.stardream.online
-status: up
-code: 200
-responseTime: 442
-lastUpdated: 2025-10-20T07:48:13.621Z
+status: down
+code: 429
+responseTime: 149
+lastUpdated: 2025-10-20T07:55:06.177Z
 startTime: 2024-08-02T00:12:32.088Z
 generator: Upptime <https://github.com/upptime/upptime>
