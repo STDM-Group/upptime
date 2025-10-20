@@ -1,7 +1,7 @@
 url: https://steam.stardream.online
-status: up
-code: 200
-responseTime: 1046
-lastUpdated: 2025-10-20T07:18:53.646Z
+status: down
+code: 500
+responseTime: 18600
+lastUpdated: 2025-10-20T07:42:28.747Z
 startTime: 2024-08-02T14:17:22.516Z
 generator: Upptime <https://github.com/upptime/upptime>
