@@ -4,18 +4,19 @@
     "url": "https://www.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.stardream.online.ico",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 165,
-    "timeDay": 129,
-    "timeWeek": 239,
-    "timeMonth": 155,
-    "timeYear": 168,
+    "time": 172,
+    "timeDay": 1732,
+    "timeWeek": 626,
+    "timeMonth": 243,
+    "timeYear": 176,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-10-11": 16,
       "2025-03-27": 26
     }
@@ -132,7 +133,7 @@
     "timeMonth": 1120,
     "timeYear": 1117,
     "dailyMinutesDown": {
-      "2025-10-20": 439,
+      "2025-10-20": 453,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -384,7 +385,7 @@
     "timeMonth": 425,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-10-20": 439,
+      "2025-10-20": 453,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -847,7 +848,7 @@
     "timeMonth": 1020,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-10-20": 440,
+      "2025-10-20": 453,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -1074,7 +1075,7 @@
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-10-20": 440,
+      "2025-10-20": 453,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
