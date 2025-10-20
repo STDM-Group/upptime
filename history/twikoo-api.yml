@@ -1,7 +1,7 @@
 url: $TWIKOO_API
-status: down
-code: 500
-responseTime: 3295
-lastUpdated: 2025-10-20T06:58:59.102Z
+status: up
+code: 200
+responseTime: 2777
+lastUpdated: 2025-10-20T07:19:03.155Z
 startTime: 2024-08-02T01:17:26.346Z
 generator: Upptime <https://github.com/upptime/upptime>
