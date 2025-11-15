@@ -136,7 +136,7 @@
     "timeMonth": 556,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2025-11-15": 579,
+      "2025-11-15": 585,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -414,7 +414,7 @@
     "timeMonth": 404,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-11-15": 579,
+      "2025-11-15": 585,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -948,19 +948,19 @@
     "url": "https://docker.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/docker.stardream.online.ico",
     "slug": "docker-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "79.15%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "78.73%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.94%",
     "time": 226,
-    "timeDay": 285,
-    "timeWeek": 292,
-    "timeMonth": 273,
+    "timeDay": 290,
+    "timeWeek": 295,
+    "timeMonth": 276,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-11-15": 264,
+      "2025-11-15": 270,
       "2025-11-14": 36,
       "2025-03-27": 26
     }
@@ -982,7 +982,7 @@
     "timeMonth": 1707,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-11-15": 579,
+      "2025-11-15": 586,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -1235,7 +1235,7 @@
     "timeMonth": 0,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2025-11-15": 579,
+      "2025-11-15": 586,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -1676,7 +1676,7 @@
     "timeMonth": 887,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-11-15": 579,
+      "2025-11-15": 586,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
