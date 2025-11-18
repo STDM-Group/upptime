@@ -1,7 +1,7 @@
 url: $CF_R2
-status: down
-code: 500
-responseTime: 61
-lastUpdated: 2025-11-18T11:49:15.773Z
+status: up
+code: 200
+responseTime: 73
+lastUpdated: 2025-11-18T13:08:05.695Z
 startTime: 2024-08-02T01:17:27.124Z
 generator: Upptime <https://github.com/upptime/upptime>
