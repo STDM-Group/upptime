@@ -1,7 +1,7 @@
 url: https://docker.stardream.online
-status: down
-code: 429
+status: up
+code: 404
 responseTime: 372
-lastUpdated: 2025-11-24T15:38:59.271Z
+lastUpdated: 2025-11-24T15:50:23.871Z
 startTime: 2024-08-02T14:02:05.625Z
 generator: Upptime <https://github.com/upptime/upptime>
