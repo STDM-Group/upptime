@@ -135,7 +135,7 @@
     "timeMonth": 610,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-12-03": 223,
+      "2025-12-03": 245,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -431,7 +431,7 @@
     "timeMonth": 377,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-12-03": 223,
+      "2025-12-03": 245,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -996,19 +996,19 @@
     "url": "https://docker.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/docker.stardream.online.ico",
     "slug": "docker-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "50.07%",
-    "uptimeWeek": "60.42%",
-    "uptimeMonth": "85.98%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "50.66%",
+    "uptimeWeek": "60.64%",
+    "uptimeMonth": "86.03%",
+    "uptimeYear": "98.84%",
     "time": 247,
-    "timeDay": 240,
-    "timeWeek": 273,
+    "timeDay": 242,
+    "timeWeek": 272,
     "timeMonth": 271,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-12-03": 222,
+      "2025-12-03": 223,
       "2025-12-02": 636,
       "2025-12-01": 666,
       "2025-11-30": 475,
@@ -1020,7 +1020,7 @@
       "2025-11-24": 636,
       "2025-11-23": 198,
       "2025-11-22": 318,
-      "2025-11-21": 147
+      "2025-11-21": 125
     }
   },
   {
@@ -1029,7 +1029,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.lolihouse.top.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "48.03%",
+    "uptime": "48.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1040,7 +1040,7 @@
     "timeMonth": 1112,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-12-03": 223,
+      "2025-12-03": 245,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -1311,7 +1311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 223,
+      "2025-12-03": 245,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -1767,7 +1767,7 @@
     "timeMonth": 747,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-12-03": 224,
+      "2025-12-03": 246,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
