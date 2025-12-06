@@ -128,14 +128,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.43%",
+    "uptimeYear": "24.42%",
     "time": 1138,
     "timeDay": 469,
     "timeWeek": 588,
     "timeMonth": 593,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2025-12-06": 575,
+      "2025-12-06": 583,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -434,7 +434,7 @@
     "timeMonth": 383,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-12-06": 575,
+      "2025-12-06": 583,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -1003,19 +1003,19 @@
     "url": "https://docker.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/docker.stardream.online.ico",
     "slug": "docker-mirror",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "55.63%",
-    "uptimeWeek": "54.50%",
-    "uptimeMonth": "86.19%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "56.15%",
+    "uptimeWeek": "54.58%",
+    "uptimeMonth": "86.24%",
     "uptimeYear": "98.85%",
     "time": 246,
-    "timeDay": 229,
+    "timeDay": 230,
     "timeWeek": 239,
     "timeMonth": 263,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-12-06": 425,
+      "2025-12-06": 426,
       "2025-12-05": 662,
       "2025-12-04": 404,
       "2025-12-03": 858,
@@ -1025,7 +1025,7 @@
       "2025-11-29": 819,
       "2025-11-28": 557,
       "2025-11-27": 397,
-      "2025-11-26": 152
+      "2025-11-26": 128
     }
   },
   {
@@ -1045,7 +1045,7 @@
     "timeMonth": 1109,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-12-06": 575,
+      "2025-12-06": 584,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -1319,7 +1319,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 575,
+      "2025-12-06": 584,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -1775,7 +1775,7 @@
     "timeMonth": 746,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-12-06": 575,
+      "2025-12-06": 584,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
