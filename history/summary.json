@@ -48,7 +48,7 @@
     "slug": "blog-past",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "90.00%",
+    "uptimeDay": "90.98%",
     "uptimeWeek": "93.15%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "98.42%",
@@ -137,7 +137,7 @@
     "timeMonth": 581,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2025-12-10": 527,
+      "2025-12-10": 541,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -440,7 +440,7 @@
     "timeMonth": 390,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-12-10": 527,
+      "2025-12-10": 541,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -1013,19 +1013,19 @@
     "url": "https://docker.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/docker.stardream.online.ico",
     "slug": "docker-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "52.33%",
-    "uptimeWeek": "58.93%",
-    "uptimeMonth": "84.56%",
-    "uptimeYear": "98.71%",
+    "uptimeDay": "52.65%",
+    "uptimeWeek": "58.92%",
+    "uptimeMonth": "84.59%",
+    "uptimeYear": "98.72%",
     "time": 243,
-    "timeDay": 255,
+    "timeDay": 260,
     "timeWeek": 225,
     "timeMonth": 257,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-12-10": 451,
+      "2025-12-10": 452,
       "2025-12-09": 554,
       "2025-12-08": 604,
       "2025-12-07": 429,
@@ -1036,7 +1036,7 @@
       "2025-12-02": 636,
       "2025-12-01": 666,
       "2025-11-30": 475,
-      "2025-11-29": 386
+      "2025-11-29": 370
     }
   },
   {
@@ -1056,7 +1056,7 @@
     "timeMonth": 1075,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-12-10": 527,
+      "2025-12-10": 541,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -1334,7 +1334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 527,
+      "2025-12-10": 541,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -1790,7 +1790,7 @@
     "timeMonth": 920,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-12-10": 527,
+      "2025-12-10": 542,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
