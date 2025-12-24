@@ -46,17 +46,17 @@
     "url": "https://nas-y-blog.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/nas-y-blog.stardream.online.ico",
     "slug": "blog-past",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "98.41%",
-    "time": 5599,
-    "timeDay": 7966,
-    "timeWeek": 3035,
-    "timeMonth": 3528,
-    "timeYear": 5529,
+    "time": 5598,
+    "timeDay": 5989,
+    "timeWeek": 2899,
+    "timeMonth": 3479,
+    "timeYear": 5523,
     "dailyMinutesDown": {
       "2025-12-24": 18,
       "2025-12-22": 50,
@@ -117,7 +117,7 @@
       "2025-03-01": 78,
       "2025-02-28": 59,
       "2025-02-27": 37,
-      "2025-02-26": 37
+      "2025-02-26": 20
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeMonth": 545,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2025-12-24": 675,
+      "2025-12-24": 690,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 416,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-12-24": 675,
+      "2025-12-24": 690,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -1046,10 +1046,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.stardream.online.ico",
     "slug": "docker-mirror",
     "status": "down",
-    "uptime": "98.96%",
+    "uptime": "98.95%",
     "uptimeDay": "41.69%",
-    "uptimeWeek": "62.10%",
-    "uptimeMonth": "82.54%",
+    "uptimeWeek": "61.95%",
+    "uptimeMonth": "82.50%",
     "uptimeYear": "98.54%",
     "time": 248,
     "timeDay": 226,
@@ -1057,7 +1057,7 @@
     "timeMonth": 256,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-12-24": 611,
+      "2025-12-24": 626,
       "2025-12-23": 822,
       "2025-12-22": 422,
       "2025-12-21": 301,
@@ -1089,7 +1089,7 @@
     "timeMonth": 988,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-12-24": 676,
+      "2025-12-24": 691,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -1381,7 +1381,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-24": 676,
+      "2025-12-24": 691,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -1837,7 +1837,7 @@
     "timeMonth": 928,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-12-24": 676,
+      "2025-12-24": 691,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
