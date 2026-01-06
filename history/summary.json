@@ -130,14 +130,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.96%",
+    "uptimeYear": "15.95%",
     "time": 1071,
     "timeDay": 519,
     "timeWeek": 582,
     "timeMonth": 540,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2026-01-06": 441,
+      "2026-01-06": 473,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -467,7 +467,7 @@
     "timeMonth": 421,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2026-01-06": 441,
+      "2026-01-06": 473,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1071,19 +1071,19 @@
     "url": "https://docker.stardream.online",
     "icon": "https://icons.duckduckgo.com/ip3/docker.stardream.online.ico",
     "slug": "docker-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "71.68%",
-    "uptimeWeek": "73.88%",
-    "uptimeMonth": "85.45%",
+    "uptimeDay": "72.96%",
+    "uptimeWeek": "73.87%",
+    "uptimeMonth": "85.50%",
     "uptimeYear": "98.79%",
     "time": 247,
-    "timeDay": 261,
-    "timeWeek": 241,
+    "timeDay": 249,
+    "timeWeek": 242,
     "timeMonth": 246,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2026-01-06": 190,
+      "2026-01-06": 191,
       "2026-01-05": 568,
       "2026-01-04": 350,
       "2026-01-03": 101,
@@ -1097,7 +1097,7 @@
       "2025-12-26": 586,
       "2025-12-25": 473,
       "2025-12-24": 707,
-      "2025-12-23": 24
+      "2025-12-23": 1
     }
   },
   {
@@ -1117,7 +1117,7 @@
     "timeMonth": 972,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2026-01-06": 441,
+      "2026-01-06": 474,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1422,7 +1422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-06": 442,
+      "2026-01-06": 474,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1878,7 +1878,7 @@
     "timeMonth": 839,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2026-01-06": 442,
+      "2026-01-06": 474,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
