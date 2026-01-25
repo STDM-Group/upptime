@@ -137,7 +137,7 @@
     "timeMonth": 593,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2026-01-25": 435,
+      "2026-01-25": 453,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 387,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2026-01-25": 436,
+      "2026-01-25": 453,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -797,19 +797,19 @@
     "url": "https://video.lolihouse.top",
     "icon": "https://icons.duckduckgo.com/ip3/video.lolihouse.top.ico",
     "slug": "star-tube",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 380,
-    "timeDay": 390,
-    "timeWeek": 381,
-    "timeMonth": 395,
+    "time": 379,
+    "timeDay": 313,
+    "timeWeek": 363,
+    "timeMonth": 390,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2026-01-25": 3,
+      "2026-01-25": 20,
       "2025-06-29": 277,
       "2025-01-28": 22
     }
@@ -1120,7 +1120,7 @@
     "time": 253,
     "timeDay": 199,
     "timeWeek": 255,
-    "timeMonth": 263,
+    "timeMonth": 264,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2026-01-25": 29,
@@ -1161,7 +1161,7 @@
     "timeMonth": 935,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2026-01-25": 436,
+      "2026-01-25": 454,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1485,7 +1485,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 436,
+      "2026-01-25": 454,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1943,7 +1943,7 @@
     "timeMonth": 662,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2026-01-25": 436,
+      "2026-01-25": 454,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
