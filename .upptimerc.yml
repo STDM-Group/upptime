@@ -48,6 +48,7 @@ sites:
     url: https://docker.stardream.online
     expectedStatusCodes:
       - 404
+      - 429
   - name: Matrix
     url: https://matrix.lolihouse.top/_matrix/static/
     expectedStatusCodes:
