@@ -16,6 +16,7 @@ sites:
     url: https://social.lolihouse.top
     expectedStatusCodes:
       - 403
+      - 200
   - name: StarTube
     url: https://video.lolihouse.top
   - name: StarServer
