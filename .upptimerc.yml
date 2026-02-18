@@ -54,6 +54,7 @@ sites:
     url: https://matrix.lolihouse.top/_matrix/static/
     expectedStatusCodes:
       - 403
+      - 502
   - name: Mail
     url: $MAIL_URL
   - name: Short Links
