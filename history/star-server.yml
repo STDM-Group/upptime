@@ -1,7 +1,7 @@
 url: $STAR_SERVER
-status: up
-code: 200
-responseTime: 1175
-lastUpdated: 2026-03-07T23:26:40.949Z
+status: down
+code: 502
+responseTime: 661
+lastUpdated: 2026-03-08T13:41:12.508Z
 startTime: 2025-10-20T15:57:25.897Z
 generator: Upptime <https://github.com/upptime/upptime>
