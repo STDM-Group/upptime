@@ -1,7 +1,7 @@
 url: $OGT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-23T17:47:21.041Z
+status: up
+code: 200
+responseTime: 1021
+lastUpdated: 2026-04-23T18:44:55.823Z
 startTime: 2025-10-20T16:00:29.888Z
 generator: Upptime <https://github.com/upptime/upptime>
