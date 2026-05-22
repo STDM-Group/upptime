@@ -1,7 +1,7 @@
 url: $STAR_CLOUD
-status: up
-code: 200
-responseTime: 1903
-lastUpdated: 2026-05-22T00:12:52.442Z
+status: down
+code: 502
+responseTime: 358
+lastUpdated: 2026-05-22T11:35:09.964Z
 startTime: 2025-10-20T15:58:27.472Z
 generator: Upptime <https://github.com/upptime/upptime>
